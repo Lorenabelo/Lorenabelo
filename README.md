@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm lorenabelo</h1>
+<h3 align="center">Writing the future with lines of code. 👩‍💻✨</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lorena-belo-873828a7/) 
