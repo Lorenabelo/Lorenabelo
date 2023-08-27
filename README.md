@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm lorenabelo</h1>
+<h1 align="center">Hi 👋, I'm Lorena</h1>
 <h3 align="center">Writing the future with lines of code. 👩‍💻✨</h3>
 
 ## 🌐 Socials:
